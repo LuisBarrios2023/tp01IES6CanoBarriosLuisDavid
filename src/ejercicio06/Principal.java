@@ -1,0 +1,10 @@
+package ejercicio06;
+
+public class Principal {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		 System.out.println("Los números del 320 al 160, contando de 20 en 20 hacia atras son: ");
+		 Calculadora.cuentaAtrasFor();
+	}
+}
